@@ -1,4 +1,13 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var message = "Hello, World!";
+var message = "Welcome back!";
 console.log(message);
+var x = 30;
+var y = 20;
+var sum;
+var title = "Codevolution";
+var isBeginner = true;
+var total = 0;
+var name = 'Vishwas';
+var sentence = "My name is ".concat(name, " I am a beginner in Typescript");
+console.log(sentence);
