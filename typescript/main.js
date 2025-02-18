@@ -11,3 +11,8 @@ var total = 0;
 var name = 'Vishwas';
 var sentence = "My name is ".concat(name, " I am a beginner in Typescript");
 console.log(sentence);
+var n = null;
+var u = undefined;
+var isNew = null;
+var myName = undefined;
+var list1 = [1, 2, 3];
